@@ -19,4 +19,5 @@ connection.query(query, (error, results, fields) => {
 });
 
 
+// end connection
 connection.end();
